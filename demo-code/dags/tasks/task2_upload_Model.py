@@ -1,5 +1,6 @@
-### Second Task ######
-### Do something more ##
+"""Second Task"""
+
 
 def main():
+    """Do something more."""
     pass
